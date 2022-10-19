@@ -1,7 +1,7 @@
 
 // Referencias de jQuery
 var url = window.location.href;
-var swLocation = '/twittor/sw.js';
+var swLocation = 'https://angeldominguezstz.github.io/twittor/sw.js';
 
 
 if ( navigator.serviceWorker ) {
